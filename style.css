@@ -13,7 +13,7 @@
 /* 3. Recheck the ratio now. Afterwards, go to the HTML file.*/
 
 body {
-    background-color: #d93f3f;
+    background: radial-gradient(#ffc894, #dba24a);
     color: #eb2626;
 }
 
@@ -24,8 +24,8 @@ body {
 
 .title {
     text-align: center;
-    color: #eb2626;
-    border: #eb2626 solid 5px;
+    color: #8a0000;
+    border: #850000 solid 5px;
     border-radius: 30px;
     font-family: 'Italianno', cursive;
     font-size: 90px;
